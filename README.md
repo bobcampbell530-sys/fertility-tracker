@@ -89,7 +89,7 @@ sudo pacman -S tk
 
 ### Option 1: Clone and Run
 ```bash
-git clone <repository-url>
+git clone https://github.com/bobcampbell530-sys/fertility-tracker.git
 cd fertility-tracker
 python3 main.py
 ```
