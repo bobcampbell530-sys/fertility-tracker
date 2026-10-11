@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.fertility_tracker_data/
+fertility_tracker.json
